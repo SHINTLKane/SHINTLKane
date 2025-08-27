@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SHINTLKane
+- 👋 Hi, I’m @SHINTLKane aka Shin Thant Linn
 - 👀 I’m interested in Food/SocialMedia
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Java and Python
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me ...
 
